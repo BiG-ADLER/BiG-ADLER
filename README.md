@@ -32,7 +32,7 @@
 <h3 align="center">Github Stats 🧭</h3>
 <div align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BiG-ADLER&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BiG-ADLER&layout=compact)
   
 <br />
 
