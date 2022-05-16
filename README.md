@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello There Im BiG ADLER</h1>
 <div align="center">
-🗂 I'm a Fron-End & Back-End Developer
+🗂 I'm a Front-End & Back-End Developer
 <br />
 <br />
 🏙 I live in Istanbul, Turkey.
