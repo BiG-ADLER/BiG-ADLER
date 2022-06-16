@@ -46,11 +46,11 @@
 <a href="https://github.com/BiG-ADLER">
 <img align="center" alt="BiG-ADLER | Github"  src="http://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=FFFFFF" />
 </a>
-<a href="https://discord.gg/7aYUYedJzb">
+<a href="https://discord.gg/Hq2uQJNfmZ">
 <img align="center" alt="BiG-ADLER | discord"  src="http://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=FFFFFF" />
 </a>
 </div>
 
 
 [github]: https://github.com/BiG-ADLER
-[discord]: https://discord.gg/7aYUYedJzb
+[discord]: https://discord.gg/Hq2uQJNfmZ
