@@ -41,7 +41,7 @@
 </div>
 <br />
 
-<h3 align="center">You Can Found Me in📩</h3>
+<h3 align="center">You Can Find Me in📩</h3>
 <div align="center">
 <a href="https://github.com/BiG-ADLER">
 <img align="center" alt="BiG-ADLER | Github"  src="http://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=FFFFFF" />
