@@ -1,56 +1,27 @@
-<h1 align="center">👋 Hello There Im BiG ADLER</h1>
-<div align="center">
-🗂 I'm a Front-End & Back-End Developer
-<br />
-<br />
-🏙 I live in Istanbul, Turkey.
-<br />
-❤ You Can Call Me Arman.
-<br />
-</div>
-<br />
-<br />
-<br />
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=BiG-ADLER&label=Profile%20views&color=3E98B4&style=for-the-badge&" alt="BiG-ADLER" />
-</div>
-
-<br />
-<br />
-
-<h3 align="center">Tech Skills 💻</h3>
-<div align="center">
-<img  alt="Python" title="Python"  src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" />
-<img  alt="CS" title="C Sharp"  src="https://img.shields.io/badge/-CS-6a329f?style=flat-square&logo=csharp&logoColor=ffffff" />
-<img  alt="Lua" title="Lua"  src="http://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua&logoColor=FFFFFF" />
-<img  alt="HTML5" title="HTML5"  src="http://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF" />
-<img alt="CSS3" title="CSS3"  src="http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF" />
-</div>
-<br />
-
-<h3 align="center">Github Stats 🧭</h3>
-<div align="center">
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BiG-ADLER&layout=compact)
-  
-<br />
-
-![github stats](https://github-readme-stats.vercel.app/api?username=BiG-ADLER&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3E98B4&icon_color=3E98B4)
-<br />
-</div>
-<br />
-
-<h3 align="center">You Can Find Me in📩</h3>
-<div align="center">
-<a href="https://github.com/BiG-ADLER">
-<img align="center" alt="BiG-ADLER | Github"  src="http://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=FFFFFF" />
-</a>
-<a href="https://discord.gg/Hq2uQJNfmZ">
-<img align="center" alt="BiG-ADLER | discord"  src="http://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=FFFFFF" />
-</a>
-</div>
+# 💫 About Me:
+🔭 I’m currently working on **FiveM Bounty System** *&* **Discord Bot Project**<br>👯 I’m looking to collaborate on **FiveM** || **Discord.js**<br>🤝 I’m looking for help with **Discord.js**<br>🌱 I’m currently learning **Javascript**,** Python**<br>💬 Ask me about **FiveM Server Development**
 
 
-[github]: https://github.com/BiG-ADLER
-[discord]: https://discord.gg/Hq2uQJNfmZ
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/big__adler) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BiG-ADLER&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BiG-ADLER&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BiG-ADLER&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BiG-ADLER&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=BiG-ADLER&icon=2&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
