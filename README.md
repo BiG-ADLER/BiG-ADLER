@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **FiveM Bounty System** *&* **Discord Bot Project**<br>👯 I’m looking to collaborate on **FiveM** || **Discord.js**<br>🤝 I’m looking for help with **Discord.js**<br>🌱 I’m currently learning **Javascript**,** Python**<br>💬 Ask me about **FiveM Server Development**
+🔭 I’m currently working on **FiveM Bounty System** *&* **Discord Bot Project**<br>👯 I’m looking to collaborate on **FiveM** || **Discord.js**<br>🤝 I’m looking for help with **Discord.js**<br>🌱 I’m currently learning **Javascript** , **Python**<br>💬 Ask me about **FiveM Server Development**
 
 
 ## 🌐 Socials:
