@@ -1,5 +1,3 @@
-# 👋 Hi Im Arman Mohebrad
-
 # 💫 About Me:
 🔭 I’m currently working on **Telegram Anonymous Chat Bot**<br>🌱 I’m currently learning **ExpressJS**<br>🤝 I’m looking for help with **NodeJS Telegram Bot**<br>👯 I’m looking to collaborate on **Telegram Bots**<br>💬 Ask me about **Telegram Bots**, **Discord Bots**<br>📫 How to reach me [Email](bigadler40@gmail.com), [Discord](https://discordapp.com/users/809903662947893319)
 
